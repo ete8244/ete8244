@@ -1,16 +1,33 @@
-## 안녕하세요!
-### 이제 막 발 딛은 에테라고 해요!
-
-### 저는 주로 이런 것들을 하고 있어요!
-- Discord Bot Engineer
-- Server Management
-- Virtual Producer
-- Unity, Unreal VR, 3D Developer
-
-### 전에는 이런 것들을 했어요!
-- Web Page Designer
-- Motion Graphics Designer
-
-### 저하고는 이걸로 연락할 수 있어요!
-- Twitter [@e_te__](https://twitter.com/@e_te__)
-- Email [hyeonjun@yeonhong.studio](mailto:hyeonjun@yeonhong.studio)
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ae0fe,100:4defe5&height=180&text=&animation=&fontColor=000000&fontSize=70" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 환영해요! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+          <br/></div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://ete8244.notion.site/62a31b7aa7c04be3910de6e6cbc4a7b8> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://ete8244.notion.site/62a31b7aa7c04be3910de6e6cbc4a7b8"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=ete8244&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ete8244&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
