@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📃 Jobs </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Unity VR, 3D Developer</li><li> Discord Bot Engineer</li><li> Server Management</li><li> Motion Graphics Designer</li><li> Virtual Producer</li><li> Unity, Unreal VR, 3D Developer </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Discord Bot Engineer</li><li> Virtual Producer</li><li> Server Management</li><li> Unity, Unreal VR, 3D Developer </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
